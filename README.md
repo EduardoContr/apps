@@ -1,5 +1,5 @@
 # apps
-Full documentation here:  
+Full documentation, "Noot" -app, (a Nutrition Diary) here:  
 
 Requirements
 track nutritional value by nutrient, by meal
